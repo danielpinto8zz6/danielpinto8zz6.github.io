@@ -11,9 +11,9 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-#   name = "Blog"
-#   pageRef = "posts"
-#   weight = 10
+   name = "Blog"
+   pageRef = "posts"
+   weight = 10
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
