@@ -1,9 +1,0 @@
----
-label: C/C++ compile run
-hide_body: false
-fields:
-- name: c/c___compile_run
-  type: text
-  config:
-    required: false
-  label: C/C++ compile run
