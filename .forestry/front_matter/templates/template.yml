@@ -2,3 +2,5 @@
 label: Template
 hide_body: false
 fields: []
+pages:
+- content/posts/Tes.md
