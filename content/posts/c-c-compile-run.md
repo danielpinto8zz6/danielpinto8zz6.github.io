@@ -4,3 +4,4 @@ logo = "/uploads/logo.png"
 title = "C/C++ compile run"
 
 +++
+Test
