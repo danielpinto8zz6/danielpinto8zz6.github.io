@@ -20,3 +20,5 @@ fields:
 - type: text
   name: externalUrl
   label: externalUrl
+pages:
+- content/projects/c-c-project-generator.md
