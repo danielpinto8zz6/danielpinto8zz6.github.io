@@ -5,11 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: projects
+  path: content/projects
   label: Projects
   create: all
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: app
 - type: directory
   path: content/posts
   label: Blog
